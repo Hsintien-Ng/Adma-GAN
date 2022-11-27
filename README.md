@@ -11,7 +11,7 @@
 ---
 
 ## Dataset
-1. Download the preprocessed [CUB-200-2011]() dataset. (including the extracted attribute information)
+1. Download the preprocessed [CUB-200-2011](https://drive.google.com/file/d/1SDVUxKbfFCp9gkYsXqzTa_fl-hFk68eK/view?usp=share_link) dataset. (including the extracted attribute information)
 2. Add it to data/CUB-200-2011
 
 ## Training
