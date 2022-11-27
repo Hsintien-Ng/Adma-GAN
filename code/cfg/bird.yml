@@ -1,0 +1,47 @@
+CONFIG_NAME: 'bird'
+
+# data
+DATASET_NAME: 'birds'
+DATA_DIR: 'data/CUB_200_2011'
+SAVE_IMAGE_DIR: 'training_results/birds_image'
+SAVE_CKPT_DIR: 'training_results/birds_model'
+SAVE_LOG_DIR: 'training_results/birds_log'
+FID_feats_real_path: 'data/CUB_200_2011/fid/test/inception_all.pkl'
+Attributes_A_path: 'data/CUB_200_2011/attributes_A.pickle'
+PAIR_NAME: 'image_attributes_pair.pickle'
+WORKERS: 1
+img_size: 256
+
+# mdoel
+NUM_CLASS: 312
+NOISE_DIM: 100
+RNN_TYPE: 'LSTM'
+
+# training and testing
+CUDA: True
+pretrained_path: ''
+seed: -1
+local_rank: 0
+
+TRAIN:
+    NF: 32 # default 64
+    BATCH_SIZE: 16          # A100: 64;  server 18: 16;
+    MAX_EPOCH: 601
+    # NET_G: '../test'
+    FID: True
+    g_lr: 0.001
+    d_lr: 0.0004
+    save_per_epoch: 50
+    weight_cls: 0.5
+    weight_c: 0.1
+
+TEST:
+    BATCH_SIZE: 32          # A100: 32;  server 18: 12;
+
+# text
+TEXT:
+    WORDS_NUM: 18
+    EMBEDDING_DIM: 256
+    CAPTIONS_PER_IMAGE: 10
+    DAMSM_NAME: 'data/CUB_200_2011/pretrained/bird/text_encoder200.pth'
+    ATTRIBUTE_CAPTION_EMBEDDING_PATH: 'data/CUB_200_2011/caption/attributes_captions_embedding.pickle'
