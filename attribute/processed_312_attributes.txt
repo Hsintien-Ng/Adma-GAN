@@ -1,0 +1,312 @@
+curved bill shape
+dagger bill shape
+hooked bill shape
+needle bill shape
+hooked bill shape
+leaf-like bill shape
+all-purpose bill shape
+cone bill shape
+specialized bill shape
+blue wing color
+brown wing color
+iridescent wing color
+purple wing color
+rufous wing color
+grey wing color
+yellow wing color
+olive wing color
+green wing color
+pink wing color
+orange wing color
+black wing color
+white wing color
+red wing color
+buff wing color
+blue upperparts color
+brown upperparts color
+iridescent upperparts color
+purple upperparts color
+rufous upperparts color
+grey upperparts color
+yellow upperparts color
+olive upperparts color
+green upperparts color
+pink upperparts color
+orange upperparts color
+black upperparts color
+white upperparts color
+red upperparts color
+buff upperparts color
+blue underparts color
+brown underparts color
+iridescent underparts color
+purple underparts color
+rufous underparts color
+grey underparts color
+yellow underparts color
+olive underparts color
+green underparts color
+pink underparts color
+orange underparts color
+black underparts color
+white underparts color
+red underparts color
+buff underparts color
+solid breast pattern
+spotted breast pattern
+striped breast pattern
+multi-colored breast pattern
+blue back color
+brown back color
+iridescent back color
+purple back color
+rufous back color
+grey back color
+yellow back color
+olive back color
+green back color
+pink back color
+orange back color
+black back color
+white back color
+red back color
+buff back color
+forked tail shape
+rounded tail shape
+notched tail shape
+fan-shaped tail shape
+pointed tail shape
+squared tail shape
+blue upper tail color
+brown upper tail color
+iridescent upper tail color
+purple upper tail color
+rufous upper tail color
+grey upper tail color
+yellow upper tail color
+olive upper tail color
+green upper tail color
+pink upper tail color
+orange upper tail color
+black upper tail color
+white upper tail color
+red upper tail color
+buff upper tail color
+spotted head pattern
+malar head pattern
+crested head pattern
+masked head pattern
+unique head pattern
+eyebrow head pattern
+eyering head pattern
+plain head pattern
+eyeline head pattern
+striped head pattern
+capped head pattern
+blue breast color
+brown breast color
+iridescent breast color
+purple breast color
+rufous breast color
+grey breast color
+yellow breast color
+olive breast color
+green breast color
+pink breast color
+orange breast color
+black breast color
+white breast color
+red breast color
+buff breast color
+blue throat color
+brown throat color
+iridescent throat color
+purple throat color
+rufous throat color
+grey throat color
+yellow throat color
+olive throat color
+green throat color
+pink throat color
+orange throat color
+black throat color
+white throat color
+red throat color
+buff throat color
+blue eye color
+brown eye color
+purple eye color
+rufous eye color
+grey eye color
+yellow eye color
+olive eye color
+green eye color
+pink eye color
+orange eye color
+black eye color
+white eye color
+red eye color
+buff eye color
+about bill length
+longer bill length
+shorter bill length
+blue forehead color
+brown forehead color
+iridescent forehead color
+purple forehead color
+rufous forehead color
+grey forehead color
+yellow forehead color
+olive forehead color
+green forehead color
+pink forehead color
+orange forehead color
+black forehead color
+white forehead color
+red forehead color
+buff forehead color
+blue under tail color
+brown under tail color
+iridescent under tail color
+purple under tail color
+rufous under tail color
+grey under tail color
+yellow under tail color
+olive under tail color
+green under tail color
+pink under tail color
+orange under tail color
+black under tail color
+white under tail color
+red under tail color
+buff under tail color
+blue nape color
+brown nape color
+iridescent nape color
+purple nape color
+rufous nape color
+grey nape color
+yellow nape color
+olive nape color
+green nape color
+pink nape color
+orange nape color
+black nape color
+white nape color
+red nape color
+buff nape color
+blue belly color
+brown belly color
+iridescent belly color
+purple belly color
+rufous belly color
+grey belly color
+yellow belly color
+olive belly color
+green belly color
+pink belly color
+orange belly color
+black belly color
+white belly color
+red belly color
+buff belly color
+rounded-wings wing shape
+pointed-wings wing shape
+broad-wings wing shape
+tapered-wings wing shape
+long-wings wing shape
+large size
+small size
+very size
+medium size
+very size
+upright-perching shape
+chicken-like-marsh shape
+long-legged-like shape
+duck-like shape
+owl-like shape
+gull-like shape
+hummingbird-like shape
+pigeon-like shape
+tree-clinging-like shape
+hawk-like shape
+sand-bird-like shape
+upland-ground-like shape
+swallow-like shape
+perching-like shape
+solid back pattern
+spotted back pattern
+striped back pattern
+multi-colored back pattern
+solid tail pattern
+spotted tail pattern
+striped tail pattern
+multi-colored tail pattern
+solid belly pattern
+spotted belly pattern
+striped belly pattern
+multi-colored belly pattern
+blue primary color
+brown primary color
+iridescent primary color
+purple primary color
+rufous primary color
+grey primary color
+yellow primary color
+olive primary color
+green primary color
+pink primary color
+orange primary color
+black primary color
+white primary color
+red primary color
+buff primary color
+blue leg color
+brown leg color
+iridescent leg color
+purple leg color
+rufous leg color
+grey leg color
+yellow leg color
+olive leg color
+green leg color
+pink leg color
+orange leg color
+black leg color
+white leg color
+red leg color
+buff leg color
+blue bill color
+brown bill color
+iridescent bill color
+purple bill color
+rufous bill color
+grey bill color
+yellow bill color
+olive bill color
+green bill color
+pink bill color
+orange bill color
+black bill color
+white bill color
+red bill color
+buff bill color
+blue crown color
+brown crown color
+iridescent crown color
+purple crown color
+rufous crown color
+grey crown color
+yellow crown color
+olive crown color
+green crown color
+pink crown color
+orange crown color
+black crown color
+white crown color
+red crown color
+buff crown color
+solid wing pattern
+spotted wing pattern
+striped wing pattern
+multi-colored wing pattern
